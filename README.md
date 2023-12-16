@@ -6,3 +6,8 @@ I like this ``lesson``
 print
 hello
 ```
+
+>__WARNING__:
+>123
+
+hi
